@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luciano Rodríguez</h1>
 <h3 align="center">Jr. Full Stack Web Developer</h3>
 
-- 🔭 I’m currently working on [https://github.com/luchorodr/twitter-grupo3](https://github.com/luchorodr/twitter-grupo3)
+- 🔭 I’m currently studying **TypeScript and Node js.**
 
 - 🌱 I’m currently looking for **my first IT Job.**
 
