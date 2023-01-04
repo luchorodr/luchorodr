@@ -3,6 +3,10 @@
 
 - 🔭 I’m currently working on [https://github.com/luchorodr/twitter-grupo3](https://github.com/luchorodr/twitter-grupo3)
 
+- 🌱 I’m currently looking for **my first IT Job.**
+
+- ✅ My most recent project [HackAcademy - FinalProject](https://ksurf-hackacademy.vercel.app/)
+
 - 👨‍💻 All of my projects are available at [https://github.com/luchorodr?tab=repositories](https://github.com/luchorodr?tab=repositories)
 
 - 💬 Ask me about **JavaScript and Node.js**
